@@ -1,0 +1,22 @@
+.tablero {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 523px;
+    border-style: solid;
+    margin: auto;
+}
+.divmadreacabado{
+	width: 100%;
+	text-align: center;
+    display: none;
+}
+
+.topillo1, .topillo2, .topillo3, 
+.topillo4, .topillo5, .topillo6,
+.topillo7, .topillo8, .topillo9 {
+	background: url('gfx/topillos.png') no-repeat -21px -28px;
+	width: 131px;
+	height: 98px;
+    margin: 10px;
+}

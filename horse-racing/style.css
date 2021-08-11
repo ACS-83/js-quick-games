@@ -1,0 +1,68 @@
+#ganador {
+    display: none;
+}
+
+#todo {
+    background-color: darkred;
+    width: 1225px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 5px solid black;
+    padding: 5px;
+}
+
+#pollo1 {
+    background: url('gfx/sprites.png') no-repeat -9px -116px;
+	width: 30px;
+	height: 28px;
+}
+
+#pollo2 {
+    background: url('gfx/sprites.png') no-repeat -153px -116px;
+	width: 30px;
+	height: 28px;
+}
+
+#pollo3 {
+    background: url('gfx/sprites.png') no-repeat -297px -116px;
+	width: 30px;
+	height: 28px;
+}
+
+#pollo4 {
+    background: url('gfx/sprites.png') no-repeat -441px -116px;
+	width: 30px;
+	height: 28px;
+}
+
+#pollo5 {
+    background: url('gfx/sprites.png') no-repeat -9px -308px;
+	width: 30px;
+	height: 28px;
+}
+
+#pollo6 {
+    background: url('gfx/sprites.png') no-repeat -153px -308px;
+	width: 30px;
+	height: 28px;
+}
+
+#pollo7 {
+    background: url('gfx/sprites.png') no-repeat -297px -308px;
+	width: 30px;
+	height: 28px;
+}
+
+#pollo7 {
+    background: url('gfx/sprites.png') no-repeat -441px -308px;
+	width: 30px;
+	height: 28px;
+}
+
+#pollo8 {
+    background: url('gfx/sprites.png')no-repeat -297px -308px;
+	width: 30px;
+	height: 28px;
+}
